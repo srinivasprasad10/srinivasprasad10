@@ -2,7 +2,7 @@
 
 ### 💻 Full Stack Developer | Python Developer | Software Engineer
 <p align="center">
-  <img src="github-banner.png" width="100%" />
+  <img src="blob:https://chatgpt.com/893dcb72-3ea8-475c-ac12-96ab1fa3583c" width="100%" />
 </p>
 
 
