@@ -4,9 +4,7 @@
 <p align="center">
   <img src="github-banner.png" width="100%" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Web+Applications;PHP+%7C+Python+%7C+Angular;ASP.NET+Core+%7C+SQL;Exploring+Machine+Learning" />
-</p>
+
 
 ---
 
